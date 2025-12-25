@@ -1,0 +1,12 @@
+{
+  "manufacturing_defect": [
+    "device not powering on",
+    "battery draining abnormally",
+    "speaker not working"
+  ],
+  "physical_damage": [
+    "cracked screen",
+    "broken casing",
+    "visible dents"
+  ]
+}

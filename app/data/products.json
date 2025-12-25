@@ -1,0 +1,14 @@
+[
+  {
+    "product_id": "P1001",
+    "name": "SmartPhone X",
+    "category": "Electronics",
+    "warranty_months": 12
+  },
+  {
+    "product_id": "P1002",
+    "name": "Wireless Earbuds Pro",
+    "category": "Electronics",
+    "warranty_months": 12
+  }
+]
